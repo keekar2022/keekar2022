@@ -1,0 +1,7 @@
+!
+! Title Adguard DNS Allow List Compliled by Mukesh Kesharwani
+!
+@@||beacons.gvt1.com^$important
+@@||beacons.gvt2.com^$important
+@@||beacons.gvt3.com^$important
+@@||beacons.gvt4.com^$important
