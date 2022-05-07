@@ -5,3 +5,5 @@
 @@||beacons.gvt2.com^$important
 @@||beacons.gvt3.com^$important
 @@||beacons.gvt4.com^$important
+@@||www.uwatchfree.be^$important
+@@||dit.whatsapp.net^$important
