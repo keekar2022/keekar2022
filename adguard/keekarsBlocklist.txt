@@ -4,7 +4,7 @@
 !
 !
 !
-||www.baidu.com^$important
+||www.baidu.com^$AI & ML datacollection platform for Chinese Companies. 
 ||www.taobao.com^$important
 ||pcookie.taobao.com^$important
 ||h5api.m.taobao.com^$important
