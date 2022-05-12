@@ -4,6 +4,9 @@
 !
 !
 !
+! Chinese Data Spy
+! 
+||www.baidu.com^$important
 ||world.taobao.com^$important
 ||www.taobao.com^$important
 ||pcookie.taobao.com^$important
@@ -15,11 +18,22 @@
 ||gw.alicdn.com^$important
 ||at.alicdn.com^$important
 ||g.alicdn.com^$important
+!
+!Media House Unwanted Contents
+!
 ||socialappsintegrator.indiatimes.com^$important
+! Gambling 
+||content001.bet365.com.au^$Betting
+!
+! Gaming Sites due to which Kids are spoiled and getting addicted to Gaming
+!
+||minecraftprod.maelstrom.gameservices.xboxlive.com^$Minecraft
+||mco.mineplex.com^$Minecraft
+!
+! General Blocking
 ||ecn.dev.virtualearth.net^$important
 ||affluentshinymulticultural.com^$Phishing Scam
 ||fuchsia-3c8d-20f2-1a0d.local^$important
 ||global.stun.twilio.com^$important
-||www.baidu.com^$important
 ||backup.broadlink.com.cn^$important
 ||cloud.broadlink.com.cn^$important
