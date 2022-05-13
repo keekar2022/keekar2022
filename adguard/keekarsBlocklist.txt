@@ -22,7 +22,7 @@
 !Media House Unwanted Contents
 !
 ||socialappsintegrator.indiatimes.com^$important
-||https://www.etoro.com^$Advertisement
+||www.etoro.com^$Advertisement
 !
 ! Gambling 
 ||content001.bet365.com.au^$Betting
