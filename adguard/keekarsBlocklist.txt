@@ -104,6 +104,3 @@
 ! ——— Epic Games Store ———
 ! To remove system notifications that promote new games and sales, go to Settings → Desktop notifications, and turn off "Show News and Special Offer Notifications" and optionally "Show Free Game Notifications"
 
-! ——— Other consoles ———
-! Entry suggestions on GitHub would be much appreciated.
-! Especially desired, since I don't own them: Sega Saturn, PlayStation Portable, PlayStation Vita, Xbox (2001 model), GameCube (https://en.wikipedia.org/wiki/GameCube_online_functionality#Supported_games), Game Boy Color/Advance (https://bulbapedia.bulbagarden.net/wiki/Mobile_System_GB#Access), PlayStation 1 (i-Mode adapter), Nintendo 64 (Randnet, Morita Shogi 64 modem), Nokia N-Gage
