@@ -23,6 +23,11 @@
 !
 ||socialappsintegrator.indiatimes.com^$important
 ||www.etoro.com^$Advertisement
+||www.etoro.com^$important
+||etoro.com^$important
+||marketing.etorostatic.com^$important
+||etoro-cdn.etorostatic.com^$important
+||etorologsapi.etoro.com^$important
 !
 ! Gambling 
 ||content001.bet365.com.au^$Betting
