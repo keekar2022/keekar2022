@@ -25,11 +25,6 @@
 ! Gambling 
 ||content001.bet365.com.au^$Betting
 !
-! Gaming Sites due to which Kids are spoiled and getting addicted to Gaming
-!
-||minecraftprod.maelstrom.gameservices.xboxlive.com^$Minecraft
-||mco.mineplex.com^$Minecraft
-!
 ! General Blocking
 ||ecn.dev.virtualearth.net^$important
 ||affluentshinymulticultural.com^$Phishing Scam
@@ -37,6 +32,11 @@
 ||global.stun.twilio.com^$important
 ||backup.broadlink.com.cn^$important
 ||cloud.broadlink.com.cn^$important
+! Gaming Sites due to which Kids are spoiled and getting addicted to Gaming
+!
+||minecraftprod.maelstrom.gameservices.xboxlive.com^$Minecraft
+||mco.mineplex.com^$Minecraft
+!
 ! ——— PlayStation 3 ———
 ! Ads
 ||nsx-e.np.dl.playstation.net^
