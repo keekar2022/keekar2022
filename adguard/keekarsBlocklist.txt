@@ -37,8 +37,6 @@
 ||affluentshinymulticultural.com^$Phishing Scam
 ||fuchsia-3c8d-20f2-1a0d.local^$important
 ||global.stun.twilio.com^$important
-||backup.broadlink.com.cn^$important
-||cloud.broadlink.com.cn^$important
 
 !
 ! Gaming Sites due to which Kids are spoiled and getting addicted to Gaming
