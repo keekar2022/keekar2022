@@ -8,3 +8,4 @@
 @@||www.uwatchfree.be^$important
 @@||crashlogs.whatsapp.net^$MetaService
 @@||dit.whatsapp.net^$MetaService
+@@||dit.whatsapp.net^$important
