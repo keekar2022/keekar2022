@@ -9,3 +9,11 @@
 @@||crashlogs.whatsapp.net^$MetaService
 @@||dit.whatsapp.net^$MetaService
 @@||dit.whatsapp.net^$important
+@@||f-log-mac-extension.grammarly.io^$important
+@@||treatment.grammarly.com^$important
+@@||gnar.grammarly.com^$important
+@@||presence.teams.live.com^$important
+@@||nexusrules.officeapps.live.com^$important
+@@||umwatson.events.data.microsoft.com^$important
+@@||cc-api-data.adobe.io^$important
+@@||metrics.icloud.com^$important
