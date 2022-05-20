@@ -42,6 +42,7 @@
 !
 ! Gaming Sites due to which Kids are spoiled and getting addicted to Gaming
 ||minecraftprod.maelstrom.gameservices.xboxlive.com^$Minecraft
+||minecraftprod.maelstrom.gameservices.xboxlive.com^$important
 ||mco.mineplex.com^$Minecraft
 !
 ! ——— PlayStation 3 ———
