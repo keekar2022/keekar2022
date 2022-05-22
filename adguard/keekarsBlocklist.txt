@@ -18,6 +18,7 @@
 ||gw.alicdn.com^$important
 ||at.alicdn.com^$important
 ||g.alicdn.com^$important
+||www.qq.com^$important
 !
 !Media House Unwanted Contents
 !
