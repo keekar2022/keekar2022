@@ -17,3 +17,4 @@
 @@||umwatson.events.data.microsoft.com^$important
 @@||cc-api-data.adobe.io^$important
 @@||metrics.icloud.com^$important
+@@||api.us-west-2.aiv-delivery.net^$important
