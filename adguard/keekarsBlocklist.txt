@@ -32,6 +32,9 @@
 !
 ! Gambling 
 ||content001.bet365.com.au^$Betting
+||bet365.com.au^$important
+||members.bet365.com.au^$important
+||www.bet365.com.au^$important
 !
 ! General Blocking
 ||ecn.dev.virtualearth.net^$important
@@ -39,7 +42,13 @@
 ||fuchsia-3c8d-20f2-1a0d.local^$important
 ||global.stun.twilio.com^$important
 ||gearbest.com^$ChinaElectronics
-
+!
+!Uwatchfree junk 
+||l4meet.com^$important
+||bestgirls4fuck.com^$important
+||syncgreatlyspeedytheproduct.vip^$important
+||bestgirls4fuck.com.tendawifi.com^$important
+||chaturbate.com^$important
 !
 ! Gaming Sites due to which Kids are spoiled and getting addicted to Gaming
 ||minecraftprod.maelstrom.gameservices.xboxlive.com^$Minecraft
