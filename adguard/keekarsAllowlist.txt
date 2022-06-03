@@ -18,3 +18,5 @@
 @@||cc-api-data.adobe.io^$important
 @@||metrics.icloud.com^$important
 @@||api.us-west-2.aiv-delivery.net^$important
+@@||e-0009.e-msedge.net^$important
+@@||outlookmobile-office365-tas-msedge-net.e-0009.e-msedge.net^$important
