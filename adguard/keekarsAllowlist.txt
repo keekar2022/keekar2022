@@ -1,10 +1,15 @@
 !
 ! Title Adguard DNS Allow List Compliled by Mukesh Kesharwani
+! Updated on : 4th Jul 2022
 !
 @@||beacons.gvt1.com^$important
 @@||beacons.gvt2.com^$important
 @@||beacons.gvt3.com^$important
 @@||beacons.gvt4.com^$important
+@@||beacons3.gvt2.com^$important
+@@||beacons4.gvt2.com^$important
+@@||beacons5.gvt2.com^$important
+@@||beacons5.gvt3.com^$important
 @@||www.uwatchfree.be^$important
 @@||crashlogs.whatsapp.net^$MetaService
 @@||dit.whatsapp.net^$MetaService
@@ -20,3 +25,4 @@
 @@||api.us-west-2.aiv-delivery.net^$important
 @@||e-0009.e-msedge.net^$important
 @@||outlookmobile-office365-tas-msedge-net.e-0009.e-msedge.net^$important
+@@||wl.spotify.com^$important
