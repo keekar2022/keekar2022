@@ -28,3 +28,4 @@
 @@||e-0009.e-msedge.net^$important
 @@||outlookmobile-office365-tas-msedge-net.e-0009.e-msedge.net^$important
 @@||wl.spotify.com^$important
+@@||unified-ter-na.hismarttv.com^$important
