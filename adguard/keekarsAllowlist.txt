@@ -10,6 +10,8 @@
 @@||beacons4.gvt2.com^$important
 @@||beacons5.gvt2.com^$important
 @@||beacons5.gvt3.com^$important
+@@||beacons.gcp.gvt2.com^$important
+
 @@||www.uwatchfree.be^$important
 @@||crashlogs.whatsapp.net^$MetaService
 @@||dit.whatsapp.net^$MetaService
