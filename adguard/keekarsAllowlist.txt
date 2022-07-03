@@ -30,6 +30,7 @@
 
 @@||cc-api-data.adobe.io^$important
 @@||geo2.adobe.com^$important
+@@||stats.adobe.com^$important
 
 @@||metrics.icloud.com^$important
 @@||api.us-west-2.aiv-delivery.net^$important
