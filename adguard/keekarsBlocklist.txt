@@ -52,7 +52,6 @@
 ||flyingadvert.com^$important
 ||onedscolprdwus05.westus.cloudapp.azure.com^$important
 ||a-ups-presence13-prod-azsc.westus2.cloudapp.azure.com^$important
-||syd-efz.ms-acdc.office.com^$important
 ||ocsp.comodoca.com.cdn.cloudflare.net^$important
 ||swallow-apple-com.v.aaplimg.com^$important
 ||www.tm.ak.prd.aadg.akadns.net^$important
