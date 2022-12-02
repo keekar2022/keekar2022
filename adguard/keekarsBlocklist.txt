@@ -56,7 +56,6 @@
 ||swallow-apple-com.v.aaplimg.com^$important
 ||www.tm.ak.prd.aadg.akadns.net^$important
 ||onedscolprduks03.uksouth.cloudapp.azure.com^$important
-||e11715.a.akamaiedge.net^$important
 !
 ! Gaming Sites due to which Kids are spoiled and getting addicted to Gaming
 ||minecraftprod.maelstrom.gameservices.xboxlive.com^$Minecraft
