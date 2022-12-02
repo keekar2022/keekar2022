@@ -39,3 +39,4 @@
 
 @@||wl.spotify.com^$important
 @@||unified-ter-na.hismarttv.com^$important
+@@||e11715.a.akamaiedge.net^$TrendMicroCDN
