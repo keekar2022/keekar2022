@@ -60,6 +60,18 @@
 ||modulusoctodon.uno^$important
 ||rebrickstowp.com^$important
 ||lightssyrupdecree.com^$important
+||ashcdn.com^$important
+||pl17448393.profitablegatetocontent.com^$important
+||cdnjs.cloudflare.com^$important
+||block-ads-now.com^$important
+||safebrowsing.google.com^$important
+||webpermissionpredictions.googleapis.com^$important
+||ashcdn.com.keekar.com.au^$important
+||hqq.to^$important
+||whychymithy.com^$important
+||cdn.urporn.com^$important
+||urporn.com^$important
+||pethealthahead.com^$important
 !
 ! Gaming Sites due to which Kids are spoiled and getting addicted to Gaming
 ||minecraftprod.maelstrom.gameservices.xboxlive.com^$Minecraft
