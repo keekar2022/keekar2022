@@ -53,7 +53,6 @@
 ||onedscolprdwus05.westus.cloudapp.azure.com^$important
 ||a-ups-presence13-prod-azsc.westus2.cloudapp.azure.com^$important
 ||ocsp.comodoca.com.cdn.cloudflare.net^$important
-||swallow-apple-com.v.aaplimg.com^$important
 ||www.tm.ak.prd.aadg.akadns.net^$important
 ||onedscolprduks03.uksouth.cloudapp.azure.com^$important
 ||pl17448393.profitablegatetocontent.com.keekar.com.au^$important
