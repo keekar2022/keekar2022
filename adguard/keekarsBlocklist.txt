@@ -63,7 +63,6 @@
 ||pl17448393.profitablegatetocontent.com^$important
 ||cdnjs.cloudflare.com^$important
 ||block-ads-now.com^$important
-||safebrowsing.google.com^$important
 ||webpermissionpredictions.googleapis.com^$important
 ||ashcdn.com.keekar.com.au^$important
 ||hqq.to^$important
