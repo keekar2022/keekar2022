@@ -21,12 +21,15 @@
 @@||f-log-mac-extension.grammarly.io^$important
 @@||treatment.grammarly.com^$important
 @@||gnar.grammarly.com^$important
+@@||femetrics.grammarly.io^$important
 
 @@||presence.teams.live.com^$important
 @@||nexusrules.officeapps.live.com^$important
 @@||umwatson.events.data.microsoft.com^$important
 @@||e-0009.e-msedge.net^$important
 @@||outlookmobile-office365-tas-msedge-net.e-0009.e-msedge.net^$important
+@@||login.mso.msidentity.com^$important
+@@||teams.nel.measure.office.net^$important
 
 @@||cc-api-data.adobe.io^$important
 @@||geo2.adobe.com^$important
