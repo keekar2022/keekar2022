@@ -12,8 +12,6 @@
 @@||beacons5.gvt3.com^$important
 @@||beacons.gcp.gvt2.com^$important
 
-@@||www.uwatchfree.be^$important
-
 @@||crashlogs.whatsapp.net^$MetaService
 @@||dit.whatsapp.net^$MetaService
 @@||dit.whatsapp.net^$important
@@ -23,6 +21,7 @@
 @@||gnar.grammarly.com^$important
 @@||femetrics.grammarly.io^$important
 
+!Microsoft & Teams Related Domains
 @@||presence.teams.live.com^$important
 @@||nexusrules.officeapps.live.com^$important
 @@||umwatson.events.data.microsoft.com^$important
@@ -30,6 +29,7 @@
 @@||outlookmobile-office365-tas-msedge-net.e-0009.e-msedge.net^$important
 @@||login.mso.msidentity.com^$important
 @@||teams.nel.measure.office.net^$important
+@@||teams.events.data.microsoft.com^$important
 
 @@||cc-api-data.adobe.io^$important
 @@||geo2.adobe.com^$important
@@ -39,9 +39,11 @@
 @@||metrics.icloud.com^$important
 @@||api.us-west-2.aiv-delivery.net^$important
 
+!Entertainment Related Sites
 @@||wl.spotify.com^$important
 @@||unified-ter-na.hismarttv.com^$important
 @@||e11715.a.akamaiedge.net^$TrendMicroCDN
 @@||browser.pipe.aria.microsoft.com^$important
 @@||local^$important
-
+@@||ad.wynk.in^$important
+@@||www.uwatchfree.be^$important
