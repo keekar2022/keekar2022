@@ -6,16 +6,31 @@
 @@||beacons.gvt2.com^$important
 @@||beacons.gvt3.com^$important
 @@||beacons.gvt4.com^$important
+@@||beacons2.gvt2.com^$important
 @@||beacons3.gvt2.com^$important
 @@||beacons4.gvt2.com^$important
 @@||beacons5.gvt2.com^$important
 @@||beacons5.gvt3.com^$important
 @@||beacons.gcp.gvt2.com^$important
+@@||e2cs39.gcp.gvt2.com^$important
+@@||e2c37.gcp.gvt2.com^$important
 
+!Byjus Servers
+@@||sdkgw.us1.twilio.com^$byjus
+@@||global.stun.twilio.com^$byjus
+@@||static.hotjar.com^$important
+@@||o515678.ingest.sentry.io^$important
+@@||m.stripe.com^$important
+@@||cdn.segment.com^$important
+
+@@||sentry.io^$important
+
+! What's App Servers
 @@||crashlogs.whatsapp.net^$MetaService
 @@||dit.whatsapp.net^$MetaService
 @@||dit.whatsapp.net^$important
 
+! Grammarly Servers
 @@||f-log-mac-extension.grammarly.io^$important
 @@||treatment.grammarly.com^$important
 @@||gnar.grammarly.com^$important
@@ -30,7 +45,9 @@
 @@||login.mso.msidentity.com^$important
 @@||teams.nel.measure.office.net^$important
 @@||teams.events.data.microsoft.com^$important
+@@||mobile.events.data.microsoft.com^$important
 
+! Adobe Servers
 @@||cc-api-data.adobe.io^$important
 @@||geo2.adobe.com^$important
 @@||stats.adobe.com^$important
@@ -45,5 +62,10 @@
 @@||e11715.a.akamaiedge.net^$TrendMicroCDN
 @@||browser.pipe.aria.microsoft.com^$important
 @@||local^$important
-@@||ad.wynk.in^$important
+@@||tvimg.wynk.in^$important
 @@||www.uwatchfree.be^$important
+@@||cdnjs.cloudflare.com^$important
+
+!CyberSecurity
+@@||www.tm.ak.prd.aadg.akadns.net^$important
+
