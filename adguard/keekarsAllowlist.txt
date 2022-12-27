@@ -19,7 +19,6 @@
 !Byjus Servers
 @@||sdkgw.us1.twilio.com^$byjus
 @@||global.stun.twilio.com^$byjus
-@@||static.hotjar.com^$important
 @@||o515678.ingest.sentry.io^$important
 @@||m.stripe.com^$important
 @@||cdn.segment.com^$important
