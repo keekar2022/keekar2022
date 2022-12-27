@@ -40,7 +40,6 @@
 ||ecn.dev.virtualearth.net^$important
 ||affluentshinymulticultural.com^$Phishing Scam
 ||fuchsia-3c8d-20f2-1a0d.local^$important
-||global.stun.twilio.com^$important
 ||gearbest.com^$ChinaElectronics
 !
 ! Uwatchfree junk 
