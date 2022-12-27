@@ -1,7 +1,7 @@
 !
 ! Title Adguard DNS Allow List Compliled by Mukesh Kesharwani
-! Updated on : 27th Dec 2022 
-! Total Domains in this list = 89
+! Updated on : 28th Dec 2022 
+! Total Domains in this list = 90
 !
 @@||beacons.gvt1.com^$important
 @@||beacons.gvt2.com^$important
@@ -60,6 +60,7 @@
 @@||unified-ter-na.hismarttv.com^$important
 @@||e11715.a.akamaiedge.net^$TrendMicroCDN
 @@||browser.pipe.aria.microsoft.com^$important
+@@||browser.events.data.microsoft.com^The NoTracking blocklist
 @@||local^$important
 @@||tvimg.wynk.in^$important
 @@||www.uwatchfree.be^$important
