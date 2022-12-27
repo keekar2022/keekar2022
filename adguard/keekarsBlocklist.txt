@@ -1,7 +1,8 @@
 !
 ! Title: AdGuard DNS filter Mukesh Kesharwani compilation
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Updated on: 8th Dec 2022
+! Updated on: 27th Dec 2022
+! Total Domain Blocked by this list is 29,480
 !
 !
 ! Chinese Data Spy Sites
@@ -20,20 +21,19 @@
 !||www.qq.com^$important
 !
 !Media House Unwanted Contents
-!
-||socialappsintegrator.indiatimes.com^$important
+||socialappsintegrator.indiatimes.com^
 ||www.etoro.com^$Advertisement
-||etoro.com^$important
-||etoro.com^$important
-||marketing.etorostatic.com^$important
-||etoro-cdn.etorostatic.com^$important
-||etorologsapi.etoro.com^$important
+||etoro.com^
+||etoro.com^
+||marketing.etorostatic.com^
+||etoro-cdn.etorostatic.com^
+||etorologsapi.etoro.com^
 !
 ! Gambling 
-||content001.bet365.com.au^$Betting
-||bet365.com.au^$important
-||members.bet365.com.au^$important
-||www.bet365.com.au^$important
+||content001.bet365.com.au^
+||bet365.com.au^
+||members.bet365.com.au^
+||www.bet365.com.au^
 !
 ! General Blocking
 ||ecn.dev.virtualearth.net^$important
