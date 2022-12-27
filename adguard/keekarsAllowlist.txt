@@ -69,3 +69,52 @@
 !CyberSecurity
 @@||www.tm.ak.prd.aadg.akadns.net^$important
 
+! Certificates
+@@||digicert.com^
+@@||entrust.net^
+@@||geotrust.com^
+@@||lencr.org^
+@@||verisign.net^
+
+! Facebook
+@@|*graph-video.facebook.com^
+@@|*graph.facebook.com^
+@@|*graph.instagram.com^
+@@|api.facebook.com^
+@@|chat-*.facebook.com^
+@@|connect.facebook.com^
+@@|connect.facebook.net^
+@@|edge-mqtt.facebook.com^
+@@|external-*.xx.fbcdn.net^
+@@|facebook.com^
+@@|www.facebook.com^
+@@|gateway.facebook.com^
+@@|i.instagram.com^
+@@|instagram.com^
+@@|www.instagram.com^
+@@|lm.facebook.com^
+@@|mqtt*.facebook.com^
+@@|msgr*.facebook.com^
+@@|platform.instagram.com^
+@@|scontent-*.xx.fbcdn.net^
+@@|star*.facebook.com^
+@@|web.facebook.com^
+
+! Facebook CDN
+@@||cdninstagram.com^
+@@||fbcdn.net^
+
+! Github
+@@||ghcr.io^
+@@||github.com^
+@@|github.io^
+@@|www.github.io^
+@@||github.map.fastly.net^
+@@||githubapp.com^
+@@||githubassets.com^
+@@||gitlab.com^
+@@|githubusercontent.com^
+@@|www.githubusercontent.com^
+@@|raw.githubusercontent.com^
+
+
