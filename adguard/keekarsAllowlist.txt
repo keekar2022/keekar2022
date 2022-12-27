@@ -1,6 +1,7 @@
 !
 ! Title Adguard DNS Allow List Compliled by Mukesh Kesharwani
-! Updated on : 4th Jul 2022
+! Updated on : 27th Dec 2022 
+! Total Domains in this list = 50
 !
 @@||beacons.gvt1.com^$important
 @@||beacons.gvt2.com^$important
@@ -22,7 +23,6 @@
 @@||o515678.ingest.sentry.io^$important
 @@||m.stripe.com^$important
 @@||cdn.segment.com^$important
-
 @@||sentry.io^$important
 
 ! What's App Servers
