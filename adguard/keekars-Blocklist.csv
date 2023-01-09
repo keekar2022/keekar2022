@@ -1,0 +1,111 @@
+!
+! Title: AdGuard DNS filter Mukesh Kesharwani compilation
+! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
+! Updated on: 9th Jan 2023
+!
+! Chinese Data Spy Sites
+!||www.baidu.com^$important
+!||world.taobao.com^$important
+!||www.taobao.com^$important
+!||pcookie.taobao.com^$important
+!||h5api.m.taobao.com^$important
+!||na61-na62.wagbridge.alibaba.taobao.com.gds.alibabadns.com^$important
+!||agoo-report.m.taobao.com^$important
+||ynuf.aliapp.org^$important
+||img.alicdn.com^$important
+||gw.alicdn.com^$important
+||at.alicdn.com^$important
+||g.alicdn.com^$important
+!||www.qq.com^$important
+!
+!Media House Unwanted Contents
+||socialappsintegrator.indiatimes.com^
+||www.etoro.com^$Advertisement
+||etoro.com^
+||etoro.com^
+||marketing.etorostatic.com^
+||etoro-cdn.etorostatic.com^
+||etorologsapi.etoro.com^
+!
+! Gambling 
+||content001.bet365.com.au^
+||bet365.com.au^
+||members.bet365.com.au^
+||www.bet365.com.au^
+!
+! General Blocking
+||ecn.dev.virtualearth.net^$important
+||affluentshinymulticultural.com^$Phishing Scam
+||fuchsia-3c8d-20f2-1a0d.local^$important
+||gearbest.com^$ChinaElectronics
+!
+! Uwatchfree junk 
+||l4meet.com^$important
+||bestgirls4fuck.com^$important
+||syncgreatlyspeedytheproduct.vip^$important
+||bestgirls4fuck.com.tendawifi.com^$important
+||chaturbate.com^$important
+||flyingadvert.com^$important
+||onedscolprdwus05.westus.cloudapp.azure.com^$important
+||a-ups-presence13-prod-azsc.westus2.cloudapp.azure.com^$important
+||ocsp.comodoca.com.cdn.cloudflare.net^$important
+||www.tm.ak.prd.aadg.akadns.net^$important
+||onedscolprduks03.uksouth.cloudapp.azure.com^$important
+||pl17448393.profitablegatetocontent.com.keekar.com.au^$important
+||modulusoctodon.uno^$important
+||rebrickstowp.com^$important
+||lightssyrupdecree.com^$important
+||ashcdn.com^$important
+||pl17448393.profitablegatetocontent.com^$important
+||cdnjs.cloudflare.com^$important
+||block-ads-now.com^$important
+||webpermissionpredictions.googleapis.com^$important
+||ashcdn.com.keekar.com.au^$important
+||hqq.to^$important
+||whychymithy.com^$important
+||cdn.urporn.com^$important
+||urporn.com^$important
+||pethealthahead.com^$important
+!
+! Gaming Sites due to which Kids are spoiled and getting addicted to Gaming
+||minecraftprod.maelstrom.gameservices.xboxlive.com^$Minecraft
+||minecraftprod.maelstrom.gameservices.xboxlive.com^$important
+||mco.mineplex.com^$Minecraft
+
+!
+! ——— PlayStation ———
+! Ads
+||nsx-e.np.dl.playstation.net^
+! What's New
+||mercury.dl.playstation.net^
+! PlayStation Store Preview, incl. 'My Channels' logos
+||nsx.np.dl.playstation.net^
+! Ticker ads in the XMB clockbar
+||adproxy.ndmdhs.com^
+||telemetry-console.api.playstation.com^
+||telemetry-cii.api.playstation.com^
+!
+! ——— Nintendo ———
+! Blocks the "Theme Shop", with the intention of preventing the annoying pink dot in the upper left of the Home Menu from reappearing all the time.
+! The entry is known to block Animal Crossing Home Designer's "Special design requests" system, although that system has been inactive since 2017.
+! WARNING: The "Theme Shop" should be visited once to remove the pink dot, and only then should this list be subscribed to.
+||npdl.cdn.nintendowifi.net^
+! There is a system setting for getting rid of the Nintendo eShop advertisements on the lockscreen, which is hidden in System Settings → System → News Channel Settings → Nintendo News → Unfollow.
+! The following entries gives access on demand to the web browser, as per SwitchBru's DNS server trick (https://www.switchbru.com/dns/), while also making it possible to use AdGuard Home for adblocking at the same time. However, since SwitchBru uses a trick to make the Switch think it's partway into logging on to a hotel network, the entries would reject access to all other Switch web activities while the entries are live:
+!!! 45.55.142.122 ctest.cdn.nintendo.net
+!!! 127.0.0.1 receive-lp1.er.srv.nintendo.net
+!!! 127.0.0.1 aauth-lp1.ndas.srv.nintendo.net
+!
+! ——— Wii U ———
+! Believed to reduce the initial loading time of Wii Sports Club by several seconds
+! Since no third-party Miiverse clients with console support are believed to be able to exist by now (January 2020), this entry is pretty much here to stay.
+||discovery.olv.nintendo.net^
+!
+! ——— Xbox ———
+! Removes sponsored info slots in the system menu
+! https://new.reddit.com/r/pihole/comments/act023/psa_block_the_sponsored_banner_ad_on_the_xbox_one/
+! Note that this also blocks Perks from Xbox Game Pass if you are subscribed to that (https://github.com/DandelionSprout/adfilt/pull/162).
+||arc.msn.com^$ctag=~device_pc|~os_windows
+! Removes paid advertising on the Xbox Live Dashboard
+! https://www.ign.com/wikis/xbox-360/Block_Ads_on_Xbox_Live
+||rad.msn.com^
