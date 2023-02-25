@@ -15,6 +15,8 @@
 @@||beacons.gcp.gvt2.com^$important
 @@||e2cs39.gcp.gvt2.com^$important
 @@||e2c37.gcp.gvt2.com^$important
+@@||dpm.demdex.net^$important
+@@||aka-cdn.adtech.de^$important
 
 !Byjus Servers
 @@||sdkgw.us1.twilio.com^$byjus
