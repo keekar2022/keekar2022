@@ -1,7 +1,7 @@
 !
 ! Title Adguard DNS Allow List Compliled by Mukesh Kesharwani
-! Updated on : 28th Dec 2022 
-! Total Domains in this list = 90
+! Updated on : 10 Aug 2023
+! Total Domains in this list = 96
 !
 @@||beacons.gvt1.com^$important
 @@||beacons.gvt2.com^$important
@@ -126,3 +126,14 @@
 @@|githubusercontent.com^
 @@|www.githubusercontent.com^
 @@|raw.githubusercontent.com^
+
+! Movies
+@@||trk.pinterest.com^Anita's Work
+@@||hqq.to^$Movies
+@@||waaw.to^$Movies
+@@||dood.so^$Movies
+@@||dood.to^$Movies
+@@||dood.la^$Movies
+@@||streamtape.com^$Movies
+@@||doodstream.com^$Movies
+
