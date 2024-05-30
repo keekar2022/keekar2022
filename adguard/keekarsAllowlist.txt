@@ -1,7 +1,7 @@
 !
 ! Title Adguard DNS Allow List Compliled by Mukesh Kesharwani
-! Updated on : 10 Aug 2023
-! Total Domains in this list = 104
+! Updated on : 31 May 2024
+! Total Domains in this list = 105
 !
 @@||beacons.gvt1.com^$important
 @@||beacons.gvt2.com^$important
