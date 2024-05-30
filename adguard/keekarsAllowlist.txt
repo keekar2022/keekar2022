@@ -136,4 +136,5 @@
 @@||dood.la^$Movies
 @@||streamtape.com^$Movies
 @@||doodstream.com^$Movies
+@@||auth-launcher-eu.hismarttv.com^$important
 
