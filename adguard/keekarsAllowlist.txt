@@ -25,6 +25,7 @@
 !Apple Servers
 @@||iadsdk.apple.com^$important
 @@||cf.iadsdk.apple.com^$important
+@@||metrics.icloud.com^$Apple
 
 !Byjus Servers
 @@||sdkgw.us1.twilio.com^$byjus
@@ -44,6 +45,8 @@
 @@||treatment.grammarly.com^$important
 @@||gnar.grammarly.com^$important
 @@||femetrics.grammarly.io^$important
+@@||f-log-extension.grammarly.io^$Grammarly
+@@||data.grammarly.com^$Grammarly
 
 !Microsoft & Teams Related Domains
 @@||presence.teams.live.com^$important
@@ -61,8 +64,6 @@
 @@||geo2.adobe.com^$important
 @@||stats.adobe.com^$important
 @@||analytics-wiki.corp.adobe.com^$important
-
-@@||metrics.icloud.com^$important
 @@||api.us-west-2.aiv-delivery.net^$important
 
 !Entertainment Related Sites
@@ -113,6 +114,7 @@
 ! Facebook CDN
 @@||cdninstagram.com^
 @@||fbcdn.net^
+@@||trk.pinterest.com^Anita's Work
 
 ! Github
 @@||ghcr.io^
@@ -137,4 +139,27 @@
 @@||streamtape.com^$Movies
 @@||doodstream.com^$Movies
 @@||auth-launcher-eu.hismarttv.com^$important
+@@||streamtape.com^$Movies
+@@||doodstream.com^$Movies
 
+! Home Automation
+@@||conn-us-long5.coolkit.cc^$eWelink
+@@||www.ewelink.cc^$eWelink
+@@||us-apid.coolkit.cc^$eWelink
+@@||us-dispd.coolkit.cc^$eWelink
+@@||us-apia.coolkit.cc^$eWeLink
+@@||geller-pa.googleapis.com^$Google Home
+@@||experiments.apple.com^$Google Home
+@@||app-analytics-services.com^$Google Home
+@@||device-provisioning.googleapis.com^$Google Home
+@@||www.google-analytics.com^$Google Home
+@@||api.ibeat-analytics.com^$Google Home
+@@||amp.casalemedia.com^$Google Home
+@@||amp.analytics-debugger.com^$Google Home
+@@||graph.whatsapp.com^$GoogleHome
+@@||s.youtube.com^$GoogleHome
+@@||app-analytics-services.com^$GoogleHome
+@@||device-provisioning.googleapis.com^$GoogleHome
+@@||firebaseinstallations.googleapis.com^$GoogleHome
+@@||www.googletagmanager.com^$GoogleHome
+@@||firebaselogging-pa.googleapis.com^$GoogleHome
