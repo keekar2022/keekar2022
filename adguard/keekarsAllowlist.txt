@@ -1,165 +1,141 @@
-!
-! Title Adguard DNS Allow List Compliled by Mukesh Kesharwani
-! Updated on : 31 May 2024
-! Total Domains in this list = 105
-!
-@@||beacons.gvt1.com^$important
-@@||beacons.gvt2.com^$important
-@@||beacons.gvt3.com^$important
-@@||beacons.gvt4.com^$important
-@@||beacons2.gvt2.com^$important
-@@||beacons3.gvt2.com^$important
-@@||beacons4.gvt2.com^$important
-@@||beacons5.gvt2.com^$important
-@@||beacons5.gvt3.com^$important
-@@||beacons.gcp.gvt2.com^$important
-@@||e2cs39.gcp.gvt2.com^$important
-@@||e2c37.gcp.gvt2.com^$important
-@@||e2c19.gcp.gvt2.com^$important
-@@||dpm.demdex.net^$important
-@@||aka-cdn.adtech.de^$important
+! Title: Adguard DNS Allow List Compiled by Mukesh Kesharwani
+! Updated on: 31 May 2024
+! Total Domains in this list: 105
 
-!Microsoft Servers
-@@||browser.events.data.microsoft.com^$important
+! Adguard DNS Allow List @@||beacons.gvt1.com^$tracking
+@@||beacons.gvt2.com^$tracking
+@@||beacons.gvt3.com^$tracking
+@@||beacons.gvt4.com^$tracking
+@@||beacons2.gvt2.com^$tracking
+@@||beacons3.gvt2.com^$tracking
+@@||beacons4.gvt2.com^$tracking
+@@||beacons5.gvt2.com^$tracking
+@@||beacons5.gvt3.com^$tracking
+@@||beacons.gcp.gvt2.com^$tracking
+@@||e2cs39.gcp.gvt2.com^$tracking
+@@||e2c37.gcp.gvt2.com^$tracking
+@@||e2c19.gcp.gvt2.com^$tracking
+@@||dpm.demdex.net^$analytics
+@@||aka-cdn.adtech.de^$ads
 
-!Apple Servers
-@@||iadsdk.apple.com^$important
-@@||cf.iadsdk.apple.com^$important
-@@||metrics.icloud.com^$Apple
+! Microsoft Servers @@||browser.events.data.microsoft.com^$telemetry
 
-!Byjus Servers
-@@||sdkgw.us1.twilio.com^$byjus
-@@||global.stun.twilio.com^$byjus
-@@||o515678.ingest.sentry.io^$important
-@@||m.stripe.com^$important
-@@||cdn.segment.com^$important
-@@||sentry.io^$important
+! Apple Servers @@||iadsdk.apple.com^$ads
+@@||cf.iadsdk.apple.com^$ads
+@@||metrics.icloud.com^$analytics
+@@||mask.icloud.com^$privacy
+@@||mask-api.fe2.apple-dns.net^$privacy
+@@||mask.apple-dns.net^$privacy
+@@||mask-h2.icloud.com^$privacy
+@@||att-conversions.appsflyersdk.com^$ads
+@@||partiality.itunes.apple.com^$ads
 
-! What's App Servers
-@@||crashlogs.whatsapp.net^$MetaService
-@@||dit.whatsapp.net^$MetaService
-@@||dit.whatsapp.net^$important
+! Byjus Servers @@||sdkgw.us1.twilio.com^$education
+@@||global.stun.twilio.com^$education
+@@||o515678.ingest.sentry.io^$analytics
+@@||m.stripe.com^$payment
+@@||cdn.segment.com^$analytics
+@@||sentry.io^$analytics
 
-! Grammarly Servers
-@@||f-log-mac-extension.grammarly.io^$important
-@@||treatment.grammarly.com^$important
-@@||gnar.grammarly.com^$important
-@@||femetrics.grammarly.io^$important
-@@||f-log-extension.grammarly.io^$Grammarly
-@@||data.grammarly.com^$Grammarly
+! WhatsApp Servers @@||crashlogs.whatsapp.net^$messaging
+@@||dit.whatsapp.net^$messaging
 
-!Microsoft & Teams Related Domains
-@@||presence.teams.live.com^$important
-@@||nexusrules.officeapps.live.com^$important
-@@||umwatson.events.data.microsoft.com^$important
-@@||e-0009.e-msedge.net^$important
-@@||outlookmobile-office365-tas-msedge-net.e-0009.e-msedge.net^$important
-@@||login.mso.msidentity.com^$important
-@@||teams.nel.measure.office.net^$important
-@@||teams.events.data.microsoft.com^$important
-@@||mobile.events.data.microsoft.com^$important
+! Grammarly Servers @@||f-log-mac-extension.grammarly.io^$analytics
+@@||treatment.grammarly.com^$analytics
+@@||gnar.grammarly.com^$analytics
+@@||femetrics.grammarly.io^$analytics
+@@||f-log-extension.grammarly.io^$analytics
+@@||data.grammarly.com^$analytics
 
-! Adobe Servers
-@@||cc-api-data.adobe.io^$important
-@@||geo2.adobe.com^$important
-@@||stats.adobe.com^$important
-@@||analytics-wiki.corp.adobe.com^$important
-@@||api.us-west-2.aiv-delivery.net^$important
+! Microsoft & Teams Related Domains @@||presence.teams.live.com^$telemetry
+@@||nexusrules.officeapps.live.com^$telemetry
+@@||umwatson.events.data.microsoft.com^$telemetry
+@@||e-0009.e-msedge.net^$telemetry
+@@||outlookmobile-office365-tas-msedge-net.e-0009.e-msedge.net^$telemetry
+@@||login.mso.msidentity.com^$telemetry
+@@||teams.nel.measure.office.net^$telemetry
+@@||teams.events.data.microsoft.com^$telemetry
+@@||mobile.events.data.microsoft.com^$telemetry
 
-!Entertainment Related Sites
-@@||wl.spotify.com^$important
-@@||unified-ter-na.hismarttv.com^$important
-@@||e11715.a.akamaiedge.net^$TrendMicroCDN
-@@||browser.pipe.aria.microsoft.com^$important
-@@||browser.events.data.microsoft.com^The NoTracking blocklist
-@@||local^$important
-@@||tvimg.wynk.in^$important
-@@||www.uwatchfree.be^$important
-@@||cdnjs.cloudflare.com^$important
+! Adobe Servers @@||cc-api-data.adobe.io^$analytics
+@@||geo2.adobe.com^$analytics
 
-!CyberSecurity
-@@||www.tm.ak.prd.aadg.akadns.net^$important
+! Entertainment Related Sites @@||wl.spotify.com^$streaming
 
-! Certificates
-@@||digicert.com^
-@@||entrust.net^
-@@||geotrust.com^
-@@||lencr.org^
-@@||verisign.net^
+! CyberSecurity @@||www.tm.ak.prd.aadg.akadns.net^$security
 
-! Facebook
-@@|*graph-video.facebook.com^
-@@|*graph.facebook.com^
-@@|*graph.instagram.com^
-@@|api.facebook.com^
-@@|chat-*.facebook.com^
-@@|connect.facebook.com^
-@@|connect.facebook.net^
-@@|edge-mqtt.facebook.com^
-@@|external-*.xx.fbcdn.net^
-@@|facebook.com^
-@@|www.facebook.com^
-@@|gateway.facebook.com^
-@@|i.instagram.com^
-@@|instagram.com^
-@@|www.instagram.com^
-@@|lm.facebook.com^
-@@|mqtt*.facebook.com^
-@@|msgr*.facebook.com^
-@@|platform.instagram.com^
-@@|scontent-*.xx.fbcdn.net^
-@@|star*.facebook.com^
-@@|web.facebook.com^
+! Certificates @@||digicert.com^$certificates
+@@||entrust.net^$certificates
+@@||geotrust.com^$certificates
+@@||lencr.org^$certificates
+@@||verisign.net^$certificates
 
-! Facebook CDN
-@@||cdninstagram.com^
-@@||fbcdn.net^
-@@||trk.pinterest.com^Anita's Work
+! Facebook @@|graph-video.facebook.com^$social
+@@|graph.facebook.com^$social
+@@|graph.instagram.com^$social
+@@|api.facebook.com^$social
+@@|chat-.facebook.com^$social
+@@|connect.facebook.com^$social
+@@|connect.facebook.net^$social
+@@|edge-mqtt.facebook.com^$social
+@@|external-.xx.fbcdn.net^$social
+@@|facebook.com^$social
+@@|www.facebook.com^$social
+@@|gateway.facebook.com^$social
+@@|i.instagram.com^$social
+@@|instagram.com^$social
+@@|www.instagram.com^$social
+@@|lm.facebook.com^$social
+@@|mqtt.facebook.com^$social
+@@|msgr*.facebook.com^$social
+@@|platform.instagram.com^$social
+@@|scontent-.xx.fbcdn.net^$social
+@@|star.facebook.com^$social
+@@|web.facebook.com^$social
 
-! Github
-@@||ghcr.io^
-@@||github.com^
-@@|github.io^
-@@|www.github.io^
-@@||github.map.fastly.net^
-@@||githubapp.com^
-@@||githubassets.com^
-@@||gitlab.com^
-@@|githubusercontent.com^
-@@|www.githubusercontent.com^
-@@|raw.githubusercontent.com^
+! Facebook CDN @@||cdninstagram.com^$cdn
+@@||fbcdn.net^$cdn
+@@||trk.pinterest.com^$ads
 
-! Movies
-@@||trk.pinterest.com^Anita's Work
-@@||hqq.to^$Movies
-@@||waaw.to^$Movies
-@@||dood.so^$Movies
-@@||dood.to^$Movies
-@@||dood.la^$Movies
-@@||streamtape.com^$Movies
-@@||doodstream.com^$Movies
-@@||auth-launcher-eu.hismarttv.com^$important
-@@||streamtape.com^$Movies
-@@||doodstream.com^$Movies
+! Github @@||ghcr.io^$development
+@@||github.com^$development
+@@|github.io^$development
+@@|www.github.io^$development
+@@||github.map.fastly.net^$cdn
+@@||githubapp.com^$development
+@@||githubassets.com^$cdn
+@@||gitlab.com^$development
+@@|githubusercontent.com^$cdn
+@@|www.githubusercontent.com^$cdn
+@@|raw.githubusercontent.com^$cdn
 
-! Home Automation
-@@||conn-us-long5.coolkit.cc^$eWelink
-@@||www.ewelink.cc^$eWelink
-@@||us-apid.coolkit.cc^$eWelink
-@@||us-dispd.coolkit.cc^$eWelink
-@@||us-apia.coolkit.cc^$eWeLink
-@@||geller-pa.googleapis.com^$Google Home
-@@||experiments.apple.com^$Google Home
-@@||app-analytics-services.com^$Google Home
-@@||device-provisioning.googleapis.com^$Google Home
-@@||www.google-analytics.com^$Google Home
-@@||api.ibeat-analytics.com^$Google Home
-@@||amp.casalemedia.com^$Google Home
-@@||amp.analytics-debugger.com^$Google Home
-@@||graph.whatsapp.com^$GoogleHome
-@@||s.youtube.com^$GoogleHome
-@@||app-analytics-services.com^$GoogleHome
-@@||device-provisioning.googleapis.com^$GoogleHome
-@@||firebaseinstallations.googleapis.com^$GoogleHome
-@@||www.googletagmanager.com^$GoogleHome
-@@||firebaselogging-pa.googleapis.com^$GoogleHome
+! Movies @@||trk.pinterest.com^$ads
+@@||hqq.to^$streaming
+@@||waaw.to^$streaming
+@@||dood.so^$streaming
+@@||dood.to^$streaming
+@@||dood.la^$streaming
+@@||streamtape.com^$streaming
+@@||doodstream.com^$streaming
+@@||auth-launcher-eu.hismarttv.com^$streaming
+
+! Home Automation @@||conn-us-long5.coolkit.cc^$home_automation
+@@||www.ewelink.cc^$home_automation
+@@||us-apid.coolkit.cc^$home_automation
+@@||us-dispd.coolkit.cc^$home_automation
+@@||us-apia.coolkit.cc^$home_automation
+@@||geller-pa.googleapis.com^$home_automation
+@@||experiments.apple.com^$home_automation
+@@||app-analytics-services.com^$home_automation
+@@||device-provisioning.googleapis.com^$home_automation
+@@||www.google-analytics.com^$analytics
+@@||api.ibeat-analytics.com^$analytics
+@@||amp.casalemedia.com^$ads
+@@||amp.analytics-debugger.com^$analytics
+@@||graph.whatsapp.com^$messaging
+@@||s.youtube.com^$streaming
+@@||app-analytics-services.com^$analytics
+@@||device-provisioning.googleapis.com^$home_automation
+@@||firebaseinstallations.googleapis.com^$analytics
+@@||www.googletagmanager.com^$analytics
+@@||firebaselogging-pa.googleapis.com^$analytics
