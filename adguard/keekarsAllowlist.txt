@@ -1,8 +1,9 @@
 ! Title: Adguard DNS Allow List Compiled by Mukesh Kesharwani
-! Updated on: 31 May 2024
-! Total Domains in this list: 105
+! Updated on: 11 Jan 2024
+! Total Domains in this list: 157
 
-! Adguard DNS Allow List @@||beacons.gvt1.com^$tracking
+! Adguard DNS Allow List 
+@@||beacons.gvt1.com^$tracking
 @@||beacons.gvt2.com^$tracking
 @@||beacons.gvt3.com^$tracking
 @@||beacons.gvt4.com^$tracking
@@ -17,10 +18,15 @@
 @@||e2c19.gcp.gvt2.com^$tracking
 @@||dpm.demdex.net^$analytics
 @@||aka-cdn.adtech.de^$ads
+@@||ecn.dev.virtualearth.net^$Jan25Discovery
 
-! Microsoft Servers @@||browser.events.data.microsoft.com^$telemetry
+! Microsoft Servers 
+@@||browser.events.data.microsoft.com^$telemetry
+@@||login.mso.msidentity.com^$MicrosoftLogin
+@@||login.microsoftonline.com^$MicrosoftLogin
 
-! Apple Servers @@||iadsdk.apple.com^$ads
+! Apple Servers 
+@@||iadsdk.apple.com^$ads
 @@||cf.iadsdk.apple.com^$ads
 @@||metrics.icloud.com^$analytics
 @@||mask.icloud.com^$privacy
@@ -30,24 +36,28 @@
 @@||att-conversions.appsflyersdk.com^$ads
 @@||partiality.itunes.apple.com^$ads
 
-! Byjus Servers @@||sdkgw.us1.twilio.com^$education
+! Byjus Servers 
+@@||sdkgw.us1.twilio.com^$education
 @@||global.stun.twilio.com^$education
 @@||o515678.ingest.sentry.io^$analytics
 @@||m.stripe.com^$payment
 @@||cdn.segment.com^$analytics
 @@||sentry.io^$analytics
 
-! WhatsApp Servers @@||crashlogs.whatsapp.net^$messaging
+! WhatsApp Servers 
+@@||crashlogs.whatsapp.net^$messaging
 @@||dit.whatsapp.net^$messaging
 
-! Grammarly Servers @@||f-log-mac-extension.grammarly.io^$analytics
+! Grammarly Servers 
+@@||f-log-mac-extension.grammarly.io^$analytics
 @@||treatment.grammarly.com^$analytics
 @@||gnar.grammarly.com^$analytics
 @@||femetrics.grammarly.io^$analytics
 @@||f-log-extension.grammarly.io^$analytics
 @@||data.grammarly.com^$analytics
 
-! Microsoft & Teams Related Domains @@||presence.teams.live.com^$telemetry
+! Microsoft & Teams Related Domains 
+@@||presence.teams.live.com^$telemetry
 @@||nexusrules.officeapps.live.com^$telemetry
 @@||umwatson.events.data.microsoft.com^$telemetry
 @@||e-0009.e-msedge.net^$telemetry
@@ -57,20 +67,25 @@
 @@||teams.events.data.microsoft.com^$telemetry
 @@||mobile.events.data.microsoft.com^$telemetry
 
-! Adobe Servers @@||cc-api-data.adobe.io^$analytics
+! Adobe Servers 
+@@||cc-api-data.adobe.io^$analytics
 @@||geo2.adobe.com^$analytics
 
-! Entertainment Related Sites @@||wl.spotify.com^$streaming
+! Entertainment Related Sites 
+@@||wl.spotify.com^$streaming
 
-! CyberSecurity @@||www.tm.ak.prd.aadg.akadns.net^$security
+! CyberSecurity 
+@@||www.tm.ak.prd.aadg.akadns.net^$security
 
-! Certificates @@||digicert.com^$certificates
+! Certificates 
+@@||digicert.com^$certificates
 @@||entrust.net^$certificates
 @@||geotrust.com^$certificates
 @@||lencr.org^$certificates
 @@||verisign.net^$certificates
 
-! Facebook @@|graph-video.facebook.com^$social
+! Facebook 
+@@|graph-video.facebook.com^$social
 @@|graph.facebook.com^$social
 @@|graph.instagram.com^$social
 @@|api.facebook.com^$social
@@ -92,12 +107,15 @@
 @@|scontent-.xx.fbcdn.net^$social
 @@|star.facebook.com^$social
 @@|web.facebook.com^$social
+@@||6de5baf0-188e-4d24-91d5-d4ed699ce0b0-netseer-ipaddr-assoc.xy.fbcdn.net^$facebook
 
-! Facebook CDN @@||cdninstagram.com^$cdn
+! Facebook CDN 
+@@||cdninstagram.com^$cdn
 @@||fbcdn.net^$cdn
 @@||trk.pinterest.com^$ads
 
-! Github @@||ghcr.io^$development
+! Github 
+@@||ghcr.io^$development
 @@||github.com^$development
 @@|github.io^$development
 @@|www.github.io^$development
@@ -109,7 +127,8 @@
 @@|www.githubusercontent.com^$cdn
 @@|raw.githubusercontent.com^$cdn
 
-! Movies @@||trk.pinterest.com^$ads
+! Movies 
+@@||trk.pinterest.com^$ads
 @@||hqq.to^$streaming
 @@||waaw.to^$streaming
 @@||dood.so^$streaming
@@ -119,7 +138,8 @@
 @@||doodstream.com^$streaming
 @@||auth-launcher-eu.hismarttv.com^$streaming
 
-! Home Automation @@||conn-us-long5.coolkit.cc^$home_automation
+! Home Automation 
+@@||conn-us-long5.coolkit.cc^$home_automation
 @@||www.ewelink.cc^$home_automation
 @@||us-apid.coolkit.cc^$home_automation
 @@||us-dispd.coolkit.cc^$home_automation
