@@ -1336,6 +1336,7 @@
 ||adrtx.net^
 ||adrun.ru^
 ||adrunnr.com^
+||ads*.tiktok.com^
 ||ads-6686.top^
 ||ads-816899299.ap-southeast-1.elb.amazonaws.com^
 ||ads-adaptv.vidible.tv^
@@ -1500,7 +1501,6 @@
 ||ads.yap.yahoo.com^
 ||ads.yenimedya.com.tr^
 ||ads.youtube.com^
-||ads*.tiktok.com^
 ||ads1-adnow.com^
 ||ads1.knxs.net^
 ||ads1.msn.com^
@@ -2477,6 +2477,7 @@
 ||analytic.vnanet.vn^
 ||analytic20.detik.com^
 ||analyticlister.com^
+||analytics*.tiktok.com^
 ||analytics-1.cavai.com^
 ||analytics-2.aasaam.com^
 ||analytics-3.aasaam.com^
@@ -2866,7 +2867,6 @@
 ||analytics.ziftsolutions.com^
 ||analytics.zoomit.ir^
 ||analytics.zpbt.uk^
-||analytics*.tiktok.com^
 ||analytics00.meride.tv^
 ||analytics1.dillards.com^
 ||analytics3.starschina.com^
@@ -4264,6 +4264,7 @@
 ||be-shop24.com^
 ||bea4.cnn.com^
 ||beachfront.com^
+||beacon*.netflix.net^
 ||beacon-api.aliyuncs.com^
 ||beacon-ash-prod.krxd.net^
 ||beacon-cdn-custom.walmart.com.akadns.net^
@@ -4297,12 +4298,11 @@
 ||beacon.walmart.com^
 ||beacon.watch.impress.co.jp^
 ||beacon.wikia-services.com^
-||beacon*.netflix.net^
 ||beaconads.com^
 ||beaconimages.netflix.net^
 ||beaconin2.notinote.me^
-||beacons.mediamelon.com^
 ||beacons*.gvt*.com^
+||beacons.mediamelon.com^
 ||beacons5.gvt3.com^
 ||beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com^
 ||beaconserver-ce-vpc0-1909323404.us-west-2.elb.amazonaws.com^
@@ -7307,9 +7307,9 @@
 ||customer-feedbacks.web.roku.com^
 ||customer.cludo.com^
 ||customer.homedepot.com^
+||customerevents*.netflix.com^
 ||customerevents.dradis.netflix.com^
 ||customerevents.netflix.com^
-||customerevents*.netflix.com^
 ||customerlabs.co^
 ||customfingerprints.bablosoft.com^
 ||custora.com^
@@ -9571,6 +9571,8 @@
 ||eventhub.gamehouse.com^
 ||eventlogger.soundcloud.com^
 ||eventplanung-ulm.de^
+||events*.data.msn.*^
+||events*.data.trafficmanager.net^
 ||events-api.outfit7.com^
 ||events-collector.spot.im^
 ||events-dra.op.hicloud.com^
@@ -9639,8 +9641,6 @@
 ||events.whisk.com^
 ||events.yourcx.io^
 ||events.zaloapp.com^
-||events*.data.msn.*^
-||events*.data.trafficmanager.net^
 ||eventsapi.grocerkey.com^
 ||eventstream.dodopizza.com^
 ||evenuewasadi.xyz^
@@ -10599,10 +10599,10 @@
 ||fromjoytohappiness.com^
 ||front.optimonk.com^
 ||frontend.weborama.fr^
-||frontier.byteoversea.com^
-||frontier.musical.ly^
 ||frontier*.byteoversea.com^
 ||frontier*.tiktokv.com^
+||frontier.byteoversea.com^
+||frontier.musical.ly^
 ||frontpage-stats.rbl.ms^
 ||fronttoad.com^
 ||froomle.com^
@@ -10951,11 +10951,11 @@
 ||gearanime.com^
 ||gearwom.de^
 ||gebaeudevorsorge.de^
+||gecko*.byteoversea.com^
+||gecko*.tiktokv.com^
 ||gecko-hl.snssdk.com^
 ||gecko-sg.byteoversea.com^
 ||gecko.me^
-||gecko*.byteoversea.com^
-||gecko*.tiktokv.com^
 ||gecycles.com^
 ||gedankenpolier.de^
 ||geddshippy.com^
@@ -12663,9 +12663,9 @@
 ||icecyber.org^
 ||icego.org^
 ||icgproducts.net^
+||ichnaea*.netflix.com^
 ||ichnaea-web.netflix.com^
 ||ichnaea.netflix.com^
-||ichnaea*.netflix.com^
 ||ichols.top^
 ||ichro.me^
 ||iclickcdn.com^
@@ -14779,6 +14779,10 @@
 ||lodder7.biz^
 ||loewe-vom-sauerland.de^
 ||lofza.com^
+||log*.byteoversea.com^
+||log*.tiktok.com^
+||log*.tiktokv.com^
+||log*.vewd.com^
 ||log-aggregator.vcnc.co.kr^
 ||log-api.aillis.net^
 ||log-collector.shopee.co.id^
@@ -14903,10 +14907,6 @@
 ||log.zingmp3.vn^
 ||log.zingnews.vn^
 ||log.zoom.us^
-||log*.byteoversea.com^
-||log*.tiktok.com^
-||log*.tiktokv.com^
-||log*.vewd.com^
 ||log000.goo.ne.jp^
 ||log1.apkomega.com^
 ||log1.cmpassport.com^
@@ -15622,12 +15622,12 @@
 ||mcpecraft.ru^
 ||mcpuwpsh.com^
 ||mcpuwpush.com^
+||mcs*.tiktok.com^
+||mcs*.tiktokv.com^
 ||mcs-va.tiktok.com^
 ||mcs-va.tiktokv.com^
 ||mcs.liveperson.net^
 ||mcs.snssdk.com^
-||mcs*.tiktok.com^
-||mcs*.tiktokv.com^
 ||mcstats.org^
 ||mctrl-marktforschung.com^
 ||mczbf.com^
@@ -16584,6 +16584,8 @@
 ||momo-reifen.de^
 ||momoanty.com^
 ||momowa.momoshop.com.tw^
+||mon*.byteoversea.com^
+||mon*.tiktokv.com^
 ||mon-va.byteoversea.com^
 ||mon-va.tiktokv.com^
 ||mon.byteoversea.com^
@@ -16591,8 +16593,6 @@
 ||mon.snssdk.com^
 ||mon.tiktokv.com^
 ||mon.us.tiktokv.com^
-||mon*.byteoversea.com^
-||mon*.tiktokv.com^
 ||monacloth.com^
 ||monad.be^
 ||monadonna.de^
@@ -20917,10 +20917,10 @@
 ||rtclx.com^
 ||rtcmarkt.com^
 ||rtk.io^
-||rtlog-i18n.tiktokv.com^
-||rtlog.tiktokv.com^
 ||rtlog*.byteoversea.com^
 ||rtlog*.tiktokv.com^
+||rtlog-i18n.tiktokv.com^
+||rtlog.tiktokv.com^
 ||rtlog22-normal.tiktokv.com^
 ||rtmark.net^
 ||rtmarks.net^
@@ -25210,6 +25210,7 @@
 ||telematicsdirect.com^
 ||telemetric.dk^
 ||telemetrics.klaviyo.com^
+||telemetry*.microsoft.com^
 ||telemetry-cii.api.playstation.com^
 ||telemetry-console.api.playstation.com^
 ||telemetry-in.battle.net^
@@ -25242,7 +25243,6 @@
 ||telemetry.urs.microsoft.com^
 ||telemetry.v.dropbox.com^
 ||telemetry.voxeet.com^
-||telemetry*.microsoft.com^
 ||telemetrydeck.com^
 ||teletarget.ru^
 ||televisionfanatic.com^
@@ -25906,6 +25906,7 @@
 ||traces.sr.roku.com^
 ||tracify.ai^
 ||tracing-collector.strava.com^
+||track*.sevensenders.com^
 ||track-149uew.link^
 ||track-bid.com^
 ||track-cn.magictavern.com^
@@ -26062,7 +26063,6 @@
 ||track.xiachufang.com^
 ||track.zappos.com^
 ||track.ziprecruiter.com^
-||track*.sevensenders.com^
 ||track1.aniview.com^
 ||track1.avplayer.com^
 ||track1.intrap.xyz^
@@ -27803,13 +27803,13 @@
 ||voreno.de^
 ||vorodaa.de^
 ||vorola.de^
+||vortex*.data.microsoft.com^
 ||vortex-sandbox.data.microsoft.com^
 ||vortex-win-sandbox.data.microsoft.com^
 ||vortex.data.microsoft.com.akadns.net^
 ||vortex.data.microsoft.com^
 ||vortex.data.msn.com^
 ||vortex.hulu.com^
-||vortex*.data.microsoft.com^
 ||vouninked.com^
 ||voxus.com.br^
 ||voyance-voyance.com^
@@ -27993,12 +27993,12 @@
 ||watchvideoplayer.com^
 ||watenbuettel-bs.de^
 ||wathspap.com^
+||watson*.microsoft.com^
 ||watson.data.microsoft.com.akadns.net^
 ||watson.events.data.microsoft.com^
 ||watson.live.com^
 ||watson.microsoft.com^
 ||watson.officeint.microsoft.com^
-||watson*.microsoft.com^
 ||watsonc.events.data.microsoft.com^
 ||wattcafe.fr^
 ||watwait.com^
@@ -28807,6 +28807,8 @@
 ||xlivrdr.com^
 ||xljqqe.hsn.com^
 ||xlmc.sec.miui.com^
+||xlog*.byteoversea.com^
+||xlog*.tiktokv.com^
 ||xlog-va.byteoversea.com^
 ||xlog-va.musical.ly^
 ||xlog-va.tiktokv.com^
@@ -28814,8 +28816,6 @@
 ||xlog.jd.com^
 ||xlog.snssdk.com^
 ||xlog.tiktokv.com^
-||xlog*.byteoversea.com^
-||xlog*.tiktokv.com^
 ||xlrdr.com^
 ||xlviiirdr.com^
 ||xlviirdr.com^
