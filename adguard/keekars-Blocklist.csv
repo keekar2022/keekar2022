@@ -9,8 +9,8 @@
 !||www.taobao.com^$important
 !||pcookie.taobao.com^$important
 !||h5api.m.taobao.com^$important
-!||na61-na62.wagbridge.alibaba.taobao.com.gds.alibabadns.com^$important
-!||agoo-report.m.taobao.com^$important
+||na61-na62.wagbridge.alibaba.taobao.com.gds.alibabadns.com^$important
+||agoo-report.m.taobao.com^$important
 ||ynuf.aliapp.org^$important
 ||img.alicdn.com^$important
 ||gw.alicdn.com^$important
@@ -34,7 +34,6 @@
 ||www.bet365.com.au^
 !
 ! General Blocking
-||ecn.dev.virtualearth.net^$important
 ||affluentshinymulticultural.com^$Phishing Scam
 ||fuchsia-3c8d-20f2-1a0d.local^$important
 ||gearbest.com^$ChinaElectronics
@@ -60,7 +59,6 @@
 ||cdnjs.cloudflare.com^$important
 ||block-ads-now.com^$important
 ||webpermissionpredictions.googleapis.com^$important
-||ashcdn.com.keekar.com.au^$important
 ||hqq.to^$important
 ||whychymithy.com^$important
 ||cdn.urporn.com^$important
