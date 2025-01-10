@@ -45,10 +45,7 @@
 ||bestgirls4fuck.com.tendawifi.com^$important
 ||chaturbate.com^$important
 ||flyingadvert.com^$important
-||onedscolprdwus05.westus.cloudapp.azure.com^$important
-||a-ups-presence13-prod-azsc.westus2.cloudapp.azure.com^$important
 ||ocsp.comodoca.com.cdn.cloudflare.net^$important
-||www.tm.ak.prd.aadg.akadns.net^$important
 ||onedscolprduks03.uksouth.cloudapp.azure.com^$important
 ||pl17448393.profitablegatetocontent.com.keekar.com.au^$important
 ||modulusoctodon.uno^$important
@@ -68,3 +65,7 @@
 ! --Phishing--
 ||wrs81.winshipway.com^$Phishing
 ||winshipway.com^$Phishing
+! --FalsePositove
+!||www.tm.ak.prd.aadg.akadns.net^$CouldbeFalsePositive
+!||onedscolprdwus05.westus.cloudapp.azure.com^$CouldbeFalsePositive
+!||a-ups-presence13-prod-azsc.westus2.cloudapp.azure.com^$CouldbeFalsePositive
