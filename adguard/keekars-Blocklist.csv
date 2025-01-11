@@ -66,6 +66,5 @@
 ||wrs81.winshipway.com^$Phishing
 ||winshipway.com^$Phishing
 ! --FalsePositove
-!||www.tm.ak.prd.aadg.akadns.net^$CouldbeFalsePositive
 !||onedscolprdwus05.westus.cloudapp.azure.com^$CouldbeFalsePositive
 !||a-ups-presence13-prod-azsc.westus2.cloudapp.azure.com^$CouldbeFalsePositive
