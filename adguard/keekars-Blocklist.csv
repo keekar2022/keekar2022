@@ -65,6 +65,7 @@
 ! --Phishing--
 ||wrs81.winshipway.com^$Phishing
 ||winshipway.com^$Phishing
+!
 ! --FalsePositove
 !||onedscolprdwus05.westus.cloudapp.azure.com^$CouldbeFalsePositive
 !||a-ups-presence13-prod-azsc.westus2.cloudapp.azure.com^$CouldbeFalsePositive
