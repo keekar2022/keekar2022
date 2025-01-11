@@ -46,21 +46,24 @@
 ||chaturbate.com^$important
 ||flyingadvert.com^$important
 ||ocsp.comodoca.com.cdn.cloudflare.net^$important
-||onedscolprduks03.uksouth.cloudapp.azure.com^$important
 ||pl17448393.profitablegatetocontent.com.keekar.com.au^$important
 ||modulusoctodon.uno^$important
 ||rebrickstowp.com^$important
 ||lightssyrupdecree.com^$important
 ||ashcdn.com^$important
 ||pl17448393.profitablegatetocontent.com^$important
-||cdnjs.cloudflare.com^$important
 ||block-ads-now.com^$important
 ||webpermissionpredictions.googleapis.com^$important
-||hqq.to^$important
 ||whychymithy.com^$important
 ||cdn.urporn.com^$important
 ||urporn.com^$important
-||pethealthahead.com^$important
+||pethealthahead.com^$11Jan2025
+||xdgeslibgbim.icu^$11Jan2025
+||roots.baby^$11Jan2025
+||brr-55bsolwf-moo.com^$11Jan2025
+||play-lg.com^$11Jan2025
+||www.redirect12.com^$11Jan2025
+||s.click.aliexpress.com^$11Jan2025
 !
 ! --Phishing--
 ||wrs81.winshipway.com^$Phishing
@@ -69,3 +72,4 @@
 ! --FalsePositove
 !||onedscolprdwus05.westus.cloudapp.azure.com^$CouldbeFalsePositive
 !||a-ups-presence13-prod-azsc.westus2.cloudapp.azure.com^$CouldbeFalsePositive
+||onedscolprduks03.uksouth.cloudapp.azure.com^$FalsePositive
