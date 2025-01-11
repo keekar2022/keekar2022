@@ -4,11 +4,11 @@
 ! Updated on: 26 Feb 2022
 !
 ! Chinese Data Spy Sites
-!||www.baidu.com^$important
-!||world.taobao.com^$important
-!||www.taobao.com^$important
-!||pcookie.taobao.com^$important
-!||h5api.m.taobao.com^$important
+||www.baidu.com^$important
+||world.taobao.com^$important
+||www.taobao.com^$important
+||pcookie.taobao.com^$important
+||h5api.m.taobao.com^$important
 ||na61-na62.wagbridge.alibaba.taobao.com.gds.alibabadns.com^$important
 ||agoo-report.m.taobao.com^$important
 ||ynuf.aliapp.org^$important
@@ -16,7 +16,8 @@
 ||gw.alicdn.com^$important
 ||at.alicdn.com^$important
 ||g.alicdn.com^$important
-!||www.qq.com^$important
+||www.qq.com^$important
+||bytedance.map.fastly.net^$12Jan2025
 !
 !Media House Unwanted Contents
 ||socialappsintegrator.indiatimes.com^
