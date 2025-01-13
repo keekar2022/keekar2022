@@ -27,15 +27,15 @@
 @@||teams.events.data.microsoft.com^$14Jan2025
 
 ! Apple Servers 
-||iadsdk.apple.com^$ads
-||cf.iadsdk.apple.com^$ads
-||metrics.icloud.com^$analytics
-||mask.icloud.com^$privacy
-||mask-api.fe2.apple-dns.net^$privacy
-||mask.apple-dns.net^$privacy
-||mask-h2.icloud.com^$privacy
-||att-conversions.appsflyersdk.com^$ads
-||partiality.itunes.apple.com^$ads
+@@||iadsdk.apple.com^$ads
+@@||cf.iadsdk.apple.com^$ads
+@@||metrics.icloud.com^$analytics
+@@||mask.icloud.com^$privacy
+@@||mask-api.fe2.apple-dns.net^$privacy
+@@||mask.apple-dns.net^$privacy
+@@||mask-h2.icloud.com^$privacy
+@@||att-conversions.appsflyersdk.com^$ads
+@@||partiality.itunes.apple.com^$ads
 @@||metrics.icloud.com^$14Jan2025
 
 ! Byjus Servers 
@@ -47,32 +47,32 @@
 @@||sentry.io^$analytics
 
 ! WhatsApp Servers 
-||crashlogs.whatsapp.net^$messaging
-||dit.whatsapp.net^$messaging
+@@||crashlogs.whatsapp.net^$messaging
+@@||dit.whatsapp.net^$messaging
 @@||dit.whatsapp.com^$14Jan2025
 
 ! Grammarly Servers 
-||f-log-mac-extension.grammarly.io^$analytics
-||treatment.grammarly.com^$analytics
-||gnar.grammarly.com^$analytics
-||femetrics.grammarly.io^$analytics
-||f-log-extension.grammarly.io^$analytics
-||data.grammarly.com^$analytics
+@@||f-log-mac-extension.grammarly.io^$analytics
+@@||treatment.grammarly.com^$analytics
+@@||gnar.grammarly.com^$analytics
+@@||femetrics.grammarly.io^$analytics
+@@||f-log-extension.grammarly.io^$analytics
+@@||data.grammarly.com^$analytics
 @@||f-log-mac-extension.grammarly.io^$14Jan2025
 @@||mac-extension.femetrics.grammarly.io^$14Jan2025
 @@||gnar.grammarly.com^$14Jan2025
 @@||treatment.grammarly.com^$14Jan2025
 
 ! Microsoft & Teams Related Domains 
-||presence.teams.live.com^$telemetry
-||nexusrules.officeapps.live.com^$telemetry
-||umwatson.events.data.microsoft.com^$telemetry
-||e-0009.e-msedge.net^$telemetry
-||outlookmobile-office365-tas-msedge-net.e-0009.e-msedge.net^$telemetry
-||login.mso.msidentity.com^$telemetry
-||teams.nel.measure.office.net^$telemetry
-||teams.events.data.microsoft.com^$telemetry
-||mobile.events.data.microsoft.com^$telemetry
+@@||presence.teams.live.com^$telemetry
+@@||nexusrules.officeapps.live.com^$telemetry
+@@||umwatson.events.data.microsoft.com^$telemetry
+@@||e-0009.e-msedge.net^$telemetry
+@@||outlookmobile-office365-tas-msedge-net.e-0009.e-msedge.net^$telemetry
+@@||login.mso.msidentity.com^$telemetry
+@@||teams.nel.measure.office.net^$telemetry
+@@||teams.events.data.microsoft.com^$telemetry
+@@||mobile.events.data.microsoft.com^$telemetry
 
 ! Adobe Servers 
 @@||cc-api-data.adobe.io^$analytics
@@ -138,7 +138,6 @@
 ! Movies 
 @@||trk.pinterest.com^$ads
 @@||hqq.to^$streaming
-hqq.to^$14Jan2025
 @@||waaw.to^$streaming
 @@||dood.so^$streaming
 @@||dood.to^$streaming
