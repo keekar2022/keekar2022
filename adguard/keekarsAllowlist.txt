@@ -1,6 +1,6 @@
 ! Title: Adguard DNS Allow List Compiled by Mukesh Kesharwani
-! Updated on: 11 Jan 2024
-! Total Domains in this list: 157
+! Updated on: 14 Jan 2025
+! Total Domains in this list: 126
 
 ! Adguard DNS Allow List 
 @@||beacons.gvt1.com^$tracking
@@ -24,6 +24,7 @@
 @@||browser.events.data.microsoft.com^$telemetry
 @@||login.mso.msidentity.com^$MicrosoftLogin
 @@||login.microsoftonline.com^$MicrosoftLogin
+@@||teams.events.data.microsoft.com^$14Jan2025
 
 ! Apple Servers 
 @@||iadsdk.apple.com^$ads
@@ -35,6 +36,7 @@
 @@||mask-h2.icloud.com^$privacy
 @@||att-conversions.appsflyersdk.com^$ads
 @@||partiality.itunes.apple.com^$ads
+@@||metrics.icloud.com^$14Jan2025
 
 ! Byjus Servers 
 @@||sdkgw.us1.twilio.com^$education
@@ -47,6 +49,7 @@
 ! WhatsApp Servers 
 @@||crashlogs.whatsapp.net^$messaging
 @@||dit.whatsapp.net^$messaging
+@@||dit.whatsapp.com^$14Jan2025
 
 ! Grammarly Servers 
 @@||f-log-mac-extension.grammarly.io^$analytics
@@ -55,6 +58,10 @@
 @@||femetrics.grammarly.io^$analytics
 @@||f-log-extension.grammarly.io^$analytics
 @@||data.grammarly.com^$analytics
+@@||f-log-mac-extension.grammarly.io^$14Jan2025
+@@||mac-extension.femetrics.grammarly.io^$14Jan2025
+@@||gnar.grammarly.com^$14Jan2025
+@@||treatment.grammarly.com^$14Jan2025
 
 ! Microsoft & Teams Related Domains 
 @@||presence.teams.live.com^$telemetry
@@ -73,6 +80,7 @@
 
 ! Entertainment Related Sites 
 @@||wl.spotify.com^$streaming
+@@||hqq.to^$14Jan2025
 
 ! CyberSecurity 
 @@||www.tm.ak.prd.aadg.akadns.net^$security
