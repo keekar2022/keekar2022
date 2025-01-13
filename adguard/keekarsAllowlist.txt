@@ -80,7 +80,7 @@
 
 ! Entertainment Related Sites 
 @@||wl.spotify.com^$streaming
-@@||hqq.to^$14Jan2025
+
 
 ! CyberSecurity 
 @@||www.tm.ak.prd.aadg.akadns.net^$security
@@ -138,6 +138,7 @@
 ! Movies 
 @@||trk.pinterest.com^$ads
 @@||hqq.to^$streaming
+hqq.to^$14Jan2025
 @@||waaw.to^$streaming
 @@||dood.so^$streaming
 @@||dood.to^$streaming
