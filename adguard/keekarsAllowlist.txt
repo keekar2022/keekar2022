@@ -50,6 +50,10 @@
 @@||crashlogs.whatsapp.net^$messaging
 @@||dit.whatsapp.net^$messaging
 @@||dit.whatsapp.com^$14Jan2025
+! for PfSenses
+||crashlogs.whatsapp.net^$messaging
+||dit.whatsapp.net^$messaging
+||dit.whatsapp.com^$14Jan2025
 
 ! Grammarly Servers 
 @@||f-log-mac-extension.grammarly.io^$analytics
