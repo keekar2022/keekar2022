@@ -17603,3 +17603,6 @@
 ||,zyxyveshe.com,^$PornSitesorRedirector
 ||,zzdb5p4upiug.com,^$PornSitesorRedirector
 ||,zzotrack.com,^$PornSitesorRedirector
+||game.clashroyaleapp.com^$important
+||novac.djybls.gameloft.com^$important
+||nyanko-backups.ponosgames.com^$important
