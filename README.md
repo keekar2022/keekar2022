@@ -1,10 +1,7 @@
-- 👋 Hi, I’m Mukesh Kesharwani you can reach me as @keekar2022
-- 👀 I’m interested in improving cyber security for Kids spcially as Parent and Teacher
-- 🌱 I’m currently learning Git Hub Features
-- 💞️ I’m looking to collaborate on Cyber Security Tools
-- 📫 You can drop email to kesharwani.2024@outlook.com
+👋 Hi, I’m Mukesh Kesharwani
+You can reach me as @keekar2022
 
-<!---
-keekar2022/keekar2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m passionate about improving cyber security for kids, especially in the context of parents and teachers.
+🌱 I’m currently learning GitHub features to enhance collaboration and project management.
+💞️ I’m looking to collaborate on cyber security tools and initiatives.
+📫 Feel free to email me at kesharwani.2024@outlook.com
