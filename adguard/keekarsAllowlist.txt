@@ -30,6 +30,7 @@
 @@||login.mso.msidentity.com^$MicrosoftLogin
 @@||login.microsoftonline.com^$MicrosoftLogin
 @@||teams.events.data.microsoft.com^$14Jan2025
+@@||mobile.events.data.microsoft.com^$important
 
 ! Apple Servers 
 @@||iadsdk.apple.com^$ads
@@ -42,6 +43,8 @@
 @@||att-conversions.appsflyersdk.com^$ads
 @@||partiality.itunes.apple.com^$ads
 @@||metrics.icloud.com^$14Jan2025
+@@||mask.icloud.com^$important
+
 
 ! Byjus Servers 
 @@||sdkgw.us1.twilio.com^$education
@@ -80,7 +83,6 @@
 
 ! Entertainment Related Sites 
 @@||wl.spotify.com^$streaming
-
 
 ! CyberSecurity 
 @@||www.tm.ak.prd.aadg.akadns.net^$security
@@ -165,7 +167,7 @@
 @@||app-analytics-services.com^$analytics
 
 ! Title: Adguard DNS Allow List Compiled by Mukesh Kesharwani
-! Updated on: 14 Jan 2025
+! Updated on: 19 Jun 2026
 ! Total Domains in this list: 164
 
 ! Adguard DNS Allow List 
